@@ -16,3 +16,4 @@ D:\developer\code\simpleapi\example\example\bin\Microsoft.AI.WindowsServer.xml
 D:\developer\code\simpleapi\example\example\bin\Microsoft.ApplicationInsights.xml
 D:\developer\code\simpleapi\example\example\obj\Release\example.dll
 D:\developer\code\simpleapi\example\example\obj\Release\example.pdb
+D:\developer\code\simpleapi\example\example\obj\Release\example.csprojResolveAssemblyReference.cache
